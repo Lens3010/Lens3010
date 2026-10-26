@@ -41,7 +41,6 @@
         <strong>Tech:</strong> Next.js 16 (Turbopack) • TypeScript • Tailwind CSS v4 • Framer Motion • Vercel
       </p>
       <a href="https://www.ginewine.it" target="_blank">🌐 Live Site (ginewine.it)</a> • 
-      <a href="https://github.com/Lens3010/ginewine-landing-page">📂 Source Code</a>
     </td>
     <td width="40%" align="center">
       <img src="https://img.shields.io/badge/PageSpeed_Mobile-95%2F100-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PageSpeed 95" /><br/><br/>
