@@ -80,7 +80,7 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-gray-ten-38.vercel.app/api?username=Lens3010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Francesco's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-gray-ten-38.vercel.app/api?username=Lens3010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Francesco's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-gray-ten-38.vercel.app/api/top-langs/?username=Lens3010&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=Jupyter%20Notebook" alt="Top Languages" width="48%" />
 </div>
 
