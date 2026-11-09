@@ -7,10 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-fra.lena3010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fra.lena3010@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Lens3010-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lens3010)
 
-<p align="center">
-  <em>"Turning espresso into convergent gradients, autonomous agent workflows, and sub-second web applications."</em>
-</p>
-
 </div>
 
 ---
